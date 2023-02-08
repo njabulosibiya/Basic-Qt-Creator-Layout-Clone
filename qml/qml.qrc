@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/custom">
+        <file>controls/SideBarButton.qml</file>
+        <file>components/SideBar.qml</file>
+        <file>components/CodeEditor.qml</file>
+        <file>components/NavigationPanel.qml</file>
+        <file>components/DocumentViewer.qml</file>
+        <file>components/ApplicationOutput.qml</file>
+    </qresource>
+</RCC>
