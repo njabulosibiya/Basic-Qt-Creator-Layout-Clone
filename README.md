@@ -1,4 +1,4 @@
-# Basic Qt Creator Layout Clone
+# ARCHIEVED REPOSITORY: Basic Qt Creator Layout Clone 
 Application made solemnly for the purpose of understanding and practicing QML Layouts.
 
 # Preview
